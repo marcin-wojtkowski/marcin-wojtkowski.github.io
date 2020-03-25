@@ -1,10 +1,10 @@
 body {
   font-family: verdana, arial, helvetica, sans-serif;
-  margin: 0;
 }
 
 #header {
   background-color: linen;
   border-bottom: 1px dotted blue;
   position: static;
+  margin: 0;
 }
