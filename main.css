@@ -8,3 +8,7 @@ body {
   position: static;
   margin: 0;
 }
+
+#list {
+  display:inline;
+}
