@@ -1,4 +1,9 @@
 body {
-  font: verdana, arial, helvetica, sans-serif;
+  font-family: verdana, arial, helvetica, sans-serif;
+}
+
+#header {
   background-color: linen;
+  border-bottom: 1px dotted blue;
+  position: static;
 }
