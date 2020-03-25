@@ -10,5 +10,6 @@ body {
 }
 
 #list {
-  display:inline;
+  float:left;
+  list-style-type:none;
 }
